@@ -6,6 +6,7 @@ test git command
 
 * git branch
 * git branch -a
-* git branch <branch-name> // create branch from branch
+* git branch -d
+* git branch <branch-name> // create branch from current branch
 * git checkout <branch-name> // switch branch
-* 
+* git pull <remote host name> <remote branch name:local branch name>  // first git pull a remote branch
