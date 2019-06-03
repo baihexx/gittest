@@ -1,6 +1,3 @@
-# gittest
-test git command
-
 ## 常用 git 命令
 参考： https://backlog.com/git-tutorial/cn/intro/intro1_1.html
 
@@ -13,14 +10,13 @@ test git command
 * git merge <branch1> // merge branch1 to to current branch
 * gir rebase <branch1> // rebase current branch into branch1
 
-
 * git reset <commid-id> // 重置HEAD到 commid-id
+* git reset <file> // undo 'git add' befor commit
 * git reset --mixed
 * git reset --soft
 * git reset --hard
 
 * git cherry-pick <commit-id> // pick content of commid-id into current branch
-
 
 ## HEAD
 * https://stackoverflow.com/questions/2304087/what-is-head-in-git
