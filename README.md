@@ -16,7 +16,8 @@ test git command
 * git reset --hard HEAD // backto the last commit, regard the current uncommited change 
 * git reset --hard <commit-id> // backto <commid-id>
 
-* git cherry-pick <commit-id> // 
+* git cherry-pick <commit-id> // pick content of commid-id into current branch
+
 
 ## HEAD
 * https://stackoverflow.com/questions/2304087/what-is-head-in-git
