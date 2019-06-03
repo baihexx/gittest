@@ -5,3 +5,4 @@ test git command
 参考： https://backlog.com/git-tutorial/cn/intro/intro1_1.html
 
 * git branch <branch-name> // create branch from branch
+* git checkout <branch-name> // switch branch
