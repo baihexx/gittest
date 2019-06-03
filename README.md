@@ -13,6 +13,10 @@ test git command
 * git merge <branch1> // merge branch1 to to current branch
 * gir rebase <branch1> // rebase current branch into branch1
 
+
+* git reset --mixed
+* git reset --soft
+* git reset --hard
 * git reset --hard HEAD // backto the last commit, regard the current uncommited change 
 * git reset --hard <commit-id> // backto <commid-id>
 
