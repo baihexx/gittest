@@ -1,6 +1,8 @@
 feat1
 
-```
+```javascript
+$ git checkout master 
+$ git branch feat1 //create feat1 from local master
 cnenxinb1m1:gittest xinb1$ git pull
 There is no tracking information for the current branch.
 Please specify which branch you want to merge with.
