@@ -34,4 +34,13 @@
 * marking merge-conflicted files as resolved
 
 ## Git diff
-?
+
+
+## reset
+* git add then reset
+* git commit then reset
+* git push then reset
+
+* working directory  staged repository
+
+## Undo
