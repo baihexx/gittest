@@ -23,3 +23,12 @@
 ## HEAD
 * https://stackoverflow.com/questions/2304087/what-is-head-in-git
 * https://juejin.im/entry/59a38c5d6fb9a0248e5cc884
+
+## States
+* untracted, tracted
+* unmodified, modified, staged
+
+## git add : add precisely this content to the next commite
+* tracking new filed
+* stage files
+* marking merge-conflicted files as resolved
