@@ -44,3 +44,7 @@
 * working directory  staged repository
 
 ## Undo
+* unstaging a staged file: git reset HEAD <file>
+* unmodifying a modified file: discard changes in working directory
+  git checkout -- <file> // git just replace that file with the most rencently-commited version
+
