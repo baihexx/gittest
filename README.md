@@ -48,3 +48,20 @@
 * unmodifying a modified file: discard changes in working directory
   git checkout -- <file> // git just replace that file with the most rencently-commited version
 
+* git pull: git fetch & git merge
+
+
+## Tagging
+* lightweight, annotated
+* git tag
+
+
+## alias
+
+## branch
+* create branch: create a new pointer to move around
+* HEAD: a pointer to the local branch you're currently on
+* git branch feat1  // create a branch named feat1
+* git checkout branch feat1 // switch branch to feat1
+* git checkout -b feat1 // create branch named branc1 and switch to feat1
+
