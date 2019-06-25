@@ -55,7 +55,6 @@
 * lightweight, annotated
 * git tag
 
-
 ## alias
 
 ## branch
