@@ -9,7 +9,7 @@
 * git checkout <branch-name> // switch branch
 * git pull <remote host name> <remote branch name:local branch name>  // first git pull a remote branch
 * git merge <branch1> // merge branch1 to to current branch
-* gir rebase <branch1> // rebase current branch into branch1
+* gir rebase <branch1> // rebase current branch into branch1, commit of branch1在先， commit of current branch在后
 
 // reset
 * git reset <commid-id> // 重置HEAD到 commid-id
