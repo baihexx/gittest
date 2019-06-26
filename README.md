@@ -50,7 +50,6 @@
 
 * git pull: git fetch & git merge
 
-
 ## Tagging
 * lightweight, annotated
 * git tag
