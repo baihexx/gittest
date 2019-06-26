@@ -65,4 +65,5 @@
 * git checkout -b feat1 // create branch named branc1 and switch to feat1
 
 feat3
+master
 
